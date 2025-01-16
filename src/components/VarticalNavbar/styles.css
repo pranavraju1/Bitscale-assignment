@@ -1,0 +1,7 @@
+.VarticalNavbar{
+    height: calc(100vh - 56px);
+    width: 62px;
+    position: fixed;
+    left: 0px;
+    border: 1px solid #E5E5E5;
+}

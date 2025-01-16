@@ -1,0 +1,27 @@
+.MenuSection{
+    position: fixed;
+    left: 60.667px;
+    height: 86px;
+    width: calc(100vw - 56px);
+    outline: 1px solid red;
+}
+.searchComponentContainer{
+    height: 37px;
+    width: 364px;
+    border-radius: 8px;
+    border: 1px solid var(--gray-300, #D1D5DB);
+    background: var(--gray-50, #F9FAFB);
+}
+.custom-input{
+    background-color: transparent;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.custom-input:focus{
+    background-color: transparent !important;
+}
+.enrichBtn{
+    background-color: #1F2A37;
+    border-radius: 8px;
+}
