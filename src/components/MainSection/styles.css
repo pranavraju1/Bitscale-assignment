@@ -1,7 +1,6 @@
 .MainSection{
     position: absolute;
     top: 143px;
-    background-color: pink;
     left: 60.667px;
     min-width: calc(100vw - 56px);
     z-index: 0;
