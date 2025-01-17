@@ -3,5 +3,9 @@
     width: 62px;
     position: fixed;
     left: 0px;
+    top: 57.33px;
+
     border: 1px solid #E5E5E5;
+    z-index: 1;
+    background-color: white;
 }

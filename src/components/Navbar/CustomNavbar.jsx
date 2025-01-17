@@ -7,7 +7,7 @@ import profile_logo from '../../../public/img/profile-logo.png';
 // import Form from 'react-bootstrap/Form';
 const CustomNavbar = () => {
   return (
-    <Navbar expand="lg" className="CustomNavbar">
+    <Navbar expand="lg" className="CustomNavbar" fixed="top">
       <Container fluid>
         <Navbar.Brand href="#">
           <div className="d-flex justify-content-center align-items-center gap-3 ">

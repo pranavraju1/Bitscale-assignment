@@ -15,5 +15,7 @@
 }
 .CustomNavbar{
     border: 1px solid #E5E5E5;
+    z-index: 1;
+    background-color: white;
 
 }

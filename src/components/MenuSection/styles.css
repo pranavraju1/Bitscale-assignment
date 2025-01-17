@@ -1,9 +1,12 @@
 .MenuSection{
     position: fixed;
     left: 60.667px;
+    top: 57.33px;
     height: 86px;
     width: calc(100vw - 56px);
     outline: 1px solid red;
+    z-index: 1;
+    background-color: white;
 }
 .searchComponentContainer{
     height: 37px;
